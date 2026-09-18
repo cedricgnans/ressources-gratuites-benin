@@ -1915,7 +1915,7 @@
       ],
       "points_attention": [
         "Le modèle AWS Free Tier a changé en juillet 2025 : les nouveaux comptes reçoivent désormais des crédits ($100 à $200 sur 6 mois) plutôt qu'un accès '12 mois gratuits' à certains services ; seuls les services 'Always Free' restent gratuits en permanence dans leurs limites.",
-        "Pour Azure for Students comme pour Google/AWS Educate, aucune page officielle consultée ne publie de liste exhaustive de pays éligibles/exclus incluant le Bénin : l'éligibilité réelle ne peut être confirmée qu'en tentant l'inscription avec une adresse @epitech.bj.",
+        "Pour Azure for Students comme pour Google/AWS Educate, aucune page officielle consultée ne publie de liste exhaustive de pays éligibles/exclus incluant le Bénin : l'éligibilité réelle ne peut être confirmée qu'en tentant l'inscription avec une adresse @epitech.eu.",
         "DigitalOcean a retiré son offre de crédit du GitHub Student Developer Pack : tous les crédits ont expiré le 1er août 2026, donc à exclure des recommandations actuelles malgré sa présence historique dans ce pack.",
         "Plusieurs pages officielles (Oracle FAQ régionales, AWS Skill Builder pricing, Scaleway pricing) ont renvoyé des erreurs d'accès (403) ou un contenu tronqué lors de la vérification directe ; les informations correspondantes proviennent de pages officielles alternatives ou de recherches complémentaires et restent partiellement 'à vérifier'.",
         "Presque tous les fournisseurs de crédits cloud (Azure, Google Cloud, IBM, Oracle) demandent une carte bancaire à un moment donné, sauf AWS Educate, Azure for Students, Firebase Spark et GitHub Student Developer Pack qui n'en demandent pas.",
@@ -3774,7 +3774,7 @@
         "lien": "https://education.github.com/pack",
         "debloque": "GitHub Pro, Copilot Student, Codespaces, et ~57 offres partenaires (JetBrains, Azure 100 $, MongoDB 50 $ + certification, Namecheap, Heroku 13 $/mois × 24 mois, DataCamp 3 mois, Educative 6 mois, Frontend Masters 6 mois, 1Password 1 an, Termius, GitKraken…). Le compte vérifié sert ensuite de preuve chez JetBrains et d'autres.",
         "preuve": "GitHub Education : photo de la carte étudiante ou d'un certificat de scolarité daté, prise depuis l'app avec géolocalisation ; candidature individuelle, Epitech n'a pas besoin d'être partenaire ; ~72 h.",
-        "action": "À faire en premier, depuis le Bénin, avec l'email @epitech.bj comme email GitHub secondaire vérifié. Refus fréquents : document illisible, sans date, ou géolocalisation qui ne correspond pas à l'école."
+        "action": "À faire en premier, depuis le Bénin, avec l'email @epitech.eu comme email GitHub secondaire vérifié. Refus fréquents : document illisible, sans date, ou géolocalisation qui ne correspond pas à l'école."
       },
       {
         "nom": "GitHub Copilot Student",
@@ -3788,14 +3788,14 @@
         "lien": "https://www.jetbrains.com/academy/student-pack/",
         "debloque": "Toute la suite payante (IntelliJ IDEA Ultimate, PyCharm Pro, WebStorm, CLion, DataGrip, Rider…) ~289 $/an, gratuite 1 an renouvelable ; -40 % pendant 2 ans après le diplôme.",
         "preuve": "Email école, carte ISIC/ITIC, document officiel, ou compte GitHub Student Pack.",
-        "action": "Demander avec l'email @epitech.bj ; si non reconnu, passer par GitHub (rang 1). Usage non commercial uniquement. Renouveler chaque année."
+        "action": "Demander avec l'email @epitech.eu ; si non reconnu, passer par GitHub (rang 1). Usage non commercial uniquement. Renouveler chaque année."
       },
       {
         "nom": "Azure for Students",
         "lien": "https://azure.microsoft.com/en-us/free/students/",
         "debloque": "100 $ de crédit Azure sur 12 mois + 25 services gratuits, « No credit card required », renouvelable annuellement.",
         "preuve": "Email école ; aussi accessible via le GitHub Student Pack.",
-        "action": "Tester l'inscription avec @epitech.bj ; à expiration, sans action, les services sont désactivés (pas de facture surprise)."
+        "action": "Tester l'inscription avec @epitech.eu ; à expiration, sans action, les services sont désactivés (pas de facture surprise)."
       },
       {
         "nom": "Google AI Plus pour étudiants",
@@ -3809,7 +3809,7 @@
         "lien": "https://www.notion.com/help/notion-for-education",
         "debloque": "Plan Plus gratuit (blocs et uploads illimités, historique 30 jours, publication de site) au lieu du plan Free limité.",
         "preuve": "Email d'établissement reconnu comme email principal du compte ; les cartes étudiantes ne sont pas acceptées.",
-        "action": "Créer le compte avec @epitech.bj ; si le domaine n'est pas reconnu, demander son ajout au support Notion."
+        "action": "Créer le compte avec @epitech.eu ; si le domaine n'est pas reconnu, demander son ajout au support Notion."
       },
       {
         "nom": "MongoDB Student Pack",
@@ -3846,7 +3846,7 @@
         "lien_officiel": "https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student",
         "documents_acceptes": "4 types acceptés (photo uniquement, pas de PDF) : « A picture of your school ID with current enrollment date », « Your class schedule », « Your transcript », « An affiliation or enrollment verification letter ». Un email académique peut suffire si « recent applicants from your school successfully verified using their academic email » ; sinon un document officiel (page web de l'école, lettre à en-tête) est demandé.",
         "procedure": "Condition d'éligibilité : « enrolled in a degree- or diploma-granting program, such as a high school, college, university, or homeschool », âge minimum 13 ans, compte GitHub actif. Candidature en ligne sur github.com/settings/education/benefits avec upload photo (prise en direct dans le navigateur/app, pas d'import de PDF selon retours communautaires). Après validation, accès à GitHub Pro gratuit (dépôts privés illimités, 3K minutes Actions, 180 h Codespaces/mois, 20 Go stockage Codespaces) et à « GitHub Copilot Student » gratuit.",
-        "ecole_non_listee": "Si le domaine email de l'établissement n'est pas reconnu par GitHub, la documentation officielle recommande de « contact GitHub Education Support » en précisant le domaine de l'école. Il est aussi possible de vérifier si l'établissement fait déjà partie du GitHub Campus Program (partenariat école) — sinon aucune procédure spécifique n'est détaillée sur la page officielle au-delà du contact support.",
+        "ecole_non_listee": "Si le domaine email de l'établissement n'est pas reconnu par GitHub, la documentation officielle recommande de « contact GitHub Education Support » en précisant le domaine de l'école. Il est aussi possible de vérifier si l'établissement fait déjà partie du GitHub Campus Program (partenariat école) — sinon aucune procédure spécifique n'est détaillée sur la page officielle au-delà du contact support. Cas Epitech Bénin : l'email est @epitech.eu (Epitech, France) ; choisir l'entrée « Epitech » si aucune entrée « Epitech Bénin » n'existe, et joindre un document mentionnant le campus de Cotonou, car GitHub rapproche la position de la demande de celle de l'établissement.",
         "pays_et_benin": "Aucune restriction géographique propre à GitHub Education n'est publiée sur la page officielle. En revanche, GitHub applique les sanctions commerciales américaines (OFAC) : services payants/privés bloqués uniquement pour Cuba, Iran, Corée du Nord, Syrie et les régions de Crimée/Donetsk/Louhansk (source officielle docs.github.com/en/site-policy/other-site-policies/github-and-trade-controls). Le Bénin n'est pas concerné par ces sanctions — aucune restriction pays identifiée sur les pages officielles pour un étudiant béninois.",
         "delai": "Non précisé sur les pages officielles consultées. Des discussions communautaires (github.com/orgs/community, non officielles) rapportent des délais allant de 72h à plusieurs semaines (2-4 semaines en cas de vérification manuelle par document, surtout si l'école n'est pas dans la base) — à considérer comme « à vérifier », pas une source officielle.",
         "validite_renouvellement": "Non précisé explicitement sur les pages officielles consultées (aucune mention de durée de validité ni de procédure de renouvellement trouvée dans docs.github.com pour le Student Developer Pack). À vérifier directement dans le compte GitHub Education de l'utilisateur.",
@@ -4716,7 +4716,7 @@
         "conditions": {
           "carte_bancaire": "non",
           "age_minimum": "à vérifier",
-          "pays_et_benin": "Pays confirmés dans les sources : UK, US, Canada, Australie, Singapour. Le Bénin n'est PAS mentionné dans la liste ; à tester avec l'email @epitech.bj mais probablement non couvert."
+          "pays_et_benin": "Pays confirmés dans les sources : UK, US, Canada, Australie, Singapour. Le Bénin n'est PAS mentionné dans la liste ; à tester avec l'email @epitech.eu mais probablement non couvert."
         },
         "date_verification": "2026-09-18",
         "statut_verification": "vérifié sur page officielle",
@@ -4743,7 +4743,7 @@
         },
         "date_verification": "2026-09-18",
         "statut_verification": "vérifié sur page officielle",
-        "notes": "Réduction, pas un plan gratuit supplémentaire. Vérifier au moment de l'inscription si l'école Epitech Bénin ou l'email @epitech.bj est reconnu par le vérificateur.",
+        "notes": "Réduction, pas un plan gratuit supplémentaire. Vérifier au moment de l'inscription si l'école Epitech Bénin ou l'email @epitech.eu est reconnu par le vérificateur.",
         "sources": [
           "https://tryhackme.com/students",
           "https://help.tryhackme.com/en/articles/6494960-student-discount"
@@ -4763,7 +4763,7 @@
         "conditions": {
           "carte_bancaire": "oui",
           "age_minimum": "à vérifier",
-          "pays_et_benin": "Non restreint par pays dans la documentation consultée ; dépend de la reconnaissance du domaine/de la preuve, donc à tester avec epitech.bj."
+          "pays_et_benin": "Non restreint par pays dans la documentation consultée ; dépend de la reconnaissance du domaine/de la preuve, donc à tester avec epitech.eu."
         },
         "date_verification": "2026-09-18",
         "statut_verification": "vérifié sur page officielle",
@@ -4881,11 +4881,11 @@
         "conditions": {
           "carte_bancaire": "oui",
           "age_minimum": "à vérifier",
-          "pays_et_benin": "Non restreint explicitement, mais processus de vérification manuelle nécessaire si l'email n'est pas en .edu (cas d'epitech.bj) — issue non garantie."
+          "pays_et_benin": "Non restreint explicitement, mais processus de vérification manuelle nécessaire si l'email n'est pas en .edu (cas d'epitech.eu) — issue non garantie."
         },
         "date_verification": "2026-09-18",
         "statut_verification": "vérifié sur page officielle",
-        "notes": "epitech.bj n'étant pas un .edu, la vérification manuelle sera nécessaire (délai non précisé).",
+        "notes": "epitech.eu n'étant pas un .edu, la vérification manuelle sera nécessaire (délai non précisé).",
         "sources": [
           "https://app.letsdefend.io/student-pricing",
           "https://help.letsdefend.io/en/articles/8739643-how-do-i-get-a-letsdefend-vip-vip-student-membership"
@@ -4993,7 +4993,7 @@
         "nature": "crédits",
         "ce_que_le_statut_etudiant_debloque": "Pack combinant plus de 70 offres partenaires. Confirmé sur la page officielle pour le volet cloud/DevOps : GitHub Pro (fonctions payantes GitHub débloquées), 3000 min/mois GitHub Actions, Codespaces niveau Pro, GitHub Copilot (plan 'Copilot Student', accès pausé puis progressivement rouvert depuis juin 2026 — vérifier disponibilité au moment de l'inscription), Microsoft Azure (25+ services + 100 $ de crédit, voir entrée dédiée), Heroku (13 $/mois de crédit pendant 24 mois), MongoDB Atlas (50 $ de crédit + certification gratuite d'une valeur de 150 $), Datadog Pro (10 serveurs, gratuit 2 ans), New Relic (accès gratuit, valeur ~300 $/mois), Sentry (50k erreurs/100k transactions/1 an), Travis CI (builds privés gratuits), Doppler (Team gratuit pendant la durée du statut étudiant), Appwrite (plan Education gratuit, ~40 $/mois de valeur), GitKraken (Pro gratuit), JetBrains All Products Pack (~289 $/an).",
         "plan_gratuit_ordinaire": "Chaque service a son propre plan gratuit public plus limité (GitHub Free, Codespaces limité, etc.) — le Pack débloque les niveaux payants de ces services sans frais.",
-        "preuve": "GitHub Education : email scolaire (@epitech.bj) et/ou preuve d'inscription officielle datée ; élève dès 13 ans dans un cursus diplômant.",
+        "preuve": "GitHub Education : email scolaire (@epitech.eu) et/ou preuve d'inscription officielle datée ; élève dès 13 ans dans un cursus diplômant.",
         "duree_et_renouvellement": "Variable par partenaire (12 mois, 2 ans, ou 'tant que étudiant' selon l'offre — voir détail par partenaire ci-dessus) ; renouvelable par re-vérification.",
         "conditions": {
           "carte_bancaire": "variable selon partenaire (souvent non exigée à l'activation, parfois requise pour certains comme MongoDB)",
@@ -5069,7 +5069,7 @@
         "conditions": {
           "carte_bancaire": "oui (carte bancaire valide requise dans la facturation)",
           "age_minimum": "18 ans",
-          "pays_et_benin": "RESTREINT AUX ÉTATS-UNIS avec email .edu selon les sources consultées — le Bénin (et epitech.bj, qui n'est pas .edu) est donc a priori EXCLU de cette offre en l'état."
+          "pays_et_benin": "RESTREINT AUX ÉTATS-UNIS avec email .edu selon les sources consultées — le Bénin (et epitech.eu, qui n'est pas .edu) est donc a priori EXCLU de cette offre en l'état."
         },
         "date_verification": "2026-09-18",
         "statut_verification": "vérifié sur page officielle",
@@ -5087,7 +5087,7 @@
         "nature": "crédits",
         "ce_que_le_statut_etudiant_debloque": "100 $ de crédit Azure utilisables sur la plupart des services pendant 12 mois, plus accès gratuit à 25+ services Azure (compute, réseau, stockage, bases de données) — sans carte bancaire requise à l'inscription.",
         "plan_gratuit_ordinaire": "Azure Free Account classique : 200 $ de crédit pendant 30 jours puis services 'always free' limités, MAIS carte bancaire obligatoire pour s'inscrire.",
-        "preuve": "Email scolaire (@epitech.bj) valide pour vérifier le statut étudiant.",
+        "preuve": "Email scolaire (@epitech.eu) valide pour vérifier le statut étudiant.",
         "duree_et_renouvellement": "Crédit valable 12 mois, renouvelable annuellement tant que le statut étudiant est maintenu ; non transférable, non cumulable d'un mois sur l'autre.",
         "conditions": {
           "carte_bancaire": "non",
@@ -5144,7 +5144,7 @@
         },
         "date_verification": "2026-09-18",
         "statut_verification": "vérifié sur page officielle (FAQ ventes JetBrains)",
-        "notes": "« educational licenses can't be used for commercial work ». Preuves acceptées d'après la page student-pack (lue lors de la première passe) : email d'établissement, carte ISIC/ITIC, document officiel, ou compte GitHub Student Developer Pack — ce dernier est la voie de repli si l'email @epitech.bj n'est pas reconnu.",
+        "notes": "« educational licenses can't be used for commercial work ». Preuves acceptées d'après la page student-pack (lue lors de la première passe) : email d'établissement, carte ISIC/ITIC, document officiel, ou compte GitHub Student Developer Pack — ce dernier est la voie de repli si l'email @epitech.eu n'est pas reconnu.",
         "sources": [
           "https://www.jetbrains.com/academy/student-pack/",
           "https://sales.jetbrains.com/hc/en-gb/articles/207241195-Do-you-offer-free-educational-licenses-for-students-and-teachers",
@@ -5896,7 +5896,8 @@
       "**Hausse de prix annoncée** — HTB Academy Student passe de 8 $ à 10 $/mois après le 12 octobre 2026.",
       "**Offres étudiantes fermées ou retirées en 2026 (encore citées dans beaucoup de guides)** — Cursor Pro étudiant (fermé aux nouvelles inscriptions le 25/06/2026), Windsurf étudiant (02/06/2026, site redirigé vers devin.ai), DigitalOcean 200 $ via le GitHub Pack (expiré le 01/08/2026), Replit retiré du Pack, Tableau for Students (fermé depuis 02/2025), Claude « Student Builder » individuel (fusionné dans le Claude Campus Program, sur candidature, clos pour l'automne 2026), Perplexity étudiants (n'est plus gratuit : -50 % ou offre historique réservée aux universités US).",
       "**Réservé aux États-Unis (ou pays listés) — non accessible depuis le Bénin** — ChatGPT « Back to School » (4 mois de Plus, établissements US), Google Colab Pro gratuit étudiants (US), CompTIA Academic Store (US/Canada « Title IV »), Cloudflare for Students (email .edu US), Immersive Students' Digital Cyber Academy (UK, US, Canada, Australie, Singapour). Beaucoup de « offres étudiantes » trouvées en ligne relèvent de cette catégorie.",
-      "**Comment prouver son statut depuis le Bénin** — Le Bénin n'est pas sous sanctions américaines : aucune exclusion GitHub/Microsoft. La voie la plus sûre est **GitHub Education** (document photographié dans l'app, candidature individuelle, ~72 h), qui sert ensuite de preuve chez JetBrains, Unity, MongoDB, etc. **SheerID** (Autodesk, Unity, CompTIA, Alteryx…) dépend de la liste de pays/écoles de chaque marque : si Epitech Bénin n'est pas dans sa base, passer par l'upload de document. **ISIC** ne liste pas le Bénin sur sa page officielle ; **UNiDAYS** n'a pas le Bénin dans son sélecteur de pays ; Student Beans non confirmé. L'email @epitech.bj n'est pas en .edu : prévoir une vérification manuelle (LetsDefend, Notion, HTB) ou un document.",
+      "**Ton email est @epitech.eu, le domaine d'Epitech (France)** — c'est un atout : le domaine d'un établissement européen établi a de bien meilleures chances d'être reconnu automatiquement (GitHub Education, JetBrains, Notion, Figma, SheerID, HTB Academy, LetsDefend, CyberDefenders) qu'un domaine local. Il n'est pas en .edu : les systèmes qui n'acceptent que .edu (Cloudflare for Students, certaines reconnaissances automatiques) passeront par une vérification manuelle ou un document. Utilise toujours @epitech.eu comme email principal ou secondaire vérifié du compte concerné.",
+      "**Comment prouver son statut depuis le Bénin** — Le Bénin n'est pas sous sanctions américaines : aucune exclusion GitHub/Microsoft. La voie la plus sûre est **GitHub Education** (document photographié dans l'app, candidature individuelle, ~72 h), qui sert ensuite de preuve chez JetBrains, Unity, MongoDB, etc. Attention : GitHub compare ta position au moment de la demande avec l'établissement choisi ; si tu sélectionnes « Epitech » (France) depuis Cotonou, attends-toi à une revue manuelle — fournis une carte étudiante ou un certificat de scolarité qui mentionne le campus Epitech Bénin. **SheerID** (Autodesk, Unity, CompTIA, Alteryx…) dépend de la liste de chaque marque : si Epitech n'est pas dans sa base, upload de document + « Add School Request ». **ISIC** ne liste pas le Bénin sur sa page officielle ; **UNiDAYS** n'a pas le Bénin dans son sélecteur de pays ; Student Beans non confirmé.",
       "**Offres qui dépendent de l'établissement, pas de l'étudiant** — Azure Dev Tools for Teaching, AWS Academy, Oracle Academy, Cisco NetAcad (réduction examen CCNA), GitLab for Education, Atlassian Classroom, EC-Council Academia, Microsoft 365 Education A1 / Copilot Chat, Google Workspace for Education, LinkedIn Learning, O'Reilly, Claude for Education : Epitech Bénin doit être inscrit comme partenaire. Aucun partenariat public Epitech–GitHub Campus / Microsoft / JetBrains n'a été trouvé — question à poser à l'administration.",
       "**Cartes bancaires** — Requise malgré la gratuité : Google AI Plus étudiants. Requise car ce sont des réductions sur un abonnement payant : TryHackMe, HTB, LetsDefend, CyberDefenders, OffSec, Adobe, Codecademy, MATLAB, Perplexity. Sans carte : GitHub Pack, Copilot Student, JetBrains, Azure for Students, Notion, Figma, Miro, Autodesk, Unity Student, W&B Academic, Alteryx SparkED, JMP.",
       "**Les compteurs démarrent à l'activation** — DataCamp 3 mois, Educative 6 mois, Frontend Masters 6 mois, Boot.dev 3 mois, Scrimba 1 mois, InterviewCake 1 semaine, GitKraken 6 mois, Dashlane 6 mois : activer une offre à la fois, quand on va vraiment l'utiliser.",
@@ -5905,7 +5906,7 @@
       "GitHub Copilot pour étudiants a connu des changements en 2026 : passage à un plan dédié 'Copilot Student' (distinct de Copilot Pro), avec une pause des nouvelles inscriptions en avril 2026 partiellement levée à partir de juin 2026 — vérifier la disponibilité réelle au moment de l'inscription.",
       "Plusieurs offres importantes (Azure Dev Tools for Teaching, AWS Academy, Oracle Academy, Cisco NetAcad, GitLab for Education, Atlassian Classroom, EC-Council Academia) NE SONT PAS activables individuellement par un étudiant : elles nécessitent qu'Epitech Bénin soit officiellement partenaire/membre du programme. Il est recommandé de demander à l'administration de l'école si ces partenariats existent déjà.",
       "CompTIA Academic Store et Cloudflare for Students ont des restrictions géographiques explicites (US/Canada pour CompTIA ; US uniquement pour Cloudflare) qui excluent a priori le Bénin en l'état des pages consultées.",
-      "epitech.bj n'étant pas un domaine .edu, plusieurs vérifications automatiques instantanées (LetsDefend, Cloudflare) risquent de nécessiter une vérification manuelle plus longue, voire un refus si le pays/l'école n'est pas dans la base du vérificateur (SheerID, UNiDAYS, Student Beans).",
+      "epitech.eu n'étant pas un domaine .edu, plusieurs vérifications automatiques instantanées (LetsDefend, Cloudflare) risquent de nécessiter une vérification manuelle plus longue, voire un refus si le pays/l'école n'est pas dans la base du vérificateur (SheerID, UNiDAYS, Student Beans).",
       "ISC2 : le tarif réduit 'Associate' (35 $/an d'AMF au lieu de 50-135 $) n'est PAS strictement réservé aux étudiants (ouvert aussi aux personnes en reconversion professionnelle) et le programme 'Certified in Cybersecurity' gratuit (1 million de certifiés) est ouvert à tout le monde sans preuve de statut étudiant — ces deux offres NE remplissent PAS le critère d'inclusion strict du brief (avantage réservé aux étudiants) et n'ont donc pas été incluses dans le catalogue.",
       "HTB Labs (VIP+/Pro Labs) : la réduction de 25% via UNiDAYS/Student Beans/SheerID n'est pas garantie en permanence selon les sources — à re-vérifier sur hackthebox.com avant de compter dessus.",
       "Cursor Pro pour étudiants : l'ancienne offre (1 an gratuit) est FERMÉE aux nouvelles inscriptions depuis le 25 juin 2026 (programme ciblé par la fraude). Les étudiants déjà inscrits conservent leur tarif jusqu'à expiration. Pour les nouveaux étudiants, seuls des crédits ponctuels via événements campus (licence) ou un formulaire de demande (master/PhD/chercheurs) restent disponibles — pas d'offre gratuite garantie. Page consultée : cursor.com/help/account-and-billing/student-discount",
